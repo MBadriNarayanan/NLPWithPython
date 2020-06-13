@@ -12,3 +12,5 @@
 
 
 [06 Sentiment Analysis Assessment](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Section6SentimentAnalysisAssessment.ipynb)
+
+[07 LDA & NMF Assessment](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Section7LDANMFAssessment.ipynb)
