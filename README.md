@@ -9,3 +9,6 @@
 [04 POS Assessment](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Section4POSAssessment.ipynb)
 
 [05 Text Classification Assessment](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Section5TextClassificationAssessment.ipynb)
+
+
+[06 Sentiment Analysis Assessment](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Section6SentimentAnalysisAssessment.ipynb)
