@@ -2,6 +2,8 @@
 
 ## Course offered by Udemy. Created and taught by Jose Portilla.
 
+[Course Certificate](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Course%20Certificate.pdf)
+
 [02 Python Text Basics Assessment](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Section2PythonTextBasicsAssessment.ipynb)
 
 [03 NLP Basics Assessment](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Section3NLPBasicsAssessment.ipynb)
@@ -14,3 +16,5 @@
 [06 Sentiment Analysis Assessment](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Section6SentimentAnalysisAssessment.ipynb)
 
 [07 LDA & NMF Assessment](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Section7LDANMFAssessment.ipynb)
+
+[08 Chat Bots](https://github.com/MBadriNarayanan/NLPWithPython/blob/master/Section8ChatBots.ipynb)
